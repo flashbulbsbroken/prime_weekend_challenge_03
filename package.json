@@ -1,0 +1,23 @@
+{
+  "name": "jquerycarousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashbulbsbroken/jquerycarousel.git"
+  },
+  "author": "Sarah Marrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashbulbsbroken/jquerycarousel/issues"
+  },
+  "homepage": "https://github.com/flashbulbsbroken/jquerycarousel#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
