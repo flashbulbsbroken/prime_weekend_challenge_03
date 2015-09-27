@@ -2,6 +2,7 @@ $(function() {
     $.ajax({
         url:"/getStudentData"
     }).done(function(response) {
+    console.log(response);
 
         var students = response;
 
@@ -24,7 +25,6 @@ $(function() {
                 //    }
 
             var slide = $("<div class='item" + active + "><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
-            console.log(slide);
 
         $(".carousel-inner").append(slide);
 

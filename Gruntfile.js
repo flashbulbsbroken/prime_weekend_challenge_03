@@ -20,7 +20,10 @@ module.exports = function(grunt) {
                     "jquery/dist/jquery.min.map",
                     "bootstrap/dist/js/bootstrap.min.js",
                     "bootstrap/dist/css/bootstrap.min.css",
-                    "bootstrap/dist/css/bootstrap-theme.min.css"
+                    "bootstrap/dist/css/bootstrap-theme.min.css",
+                    "bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+                    "bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+                    "bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
                 ],
                 "dest": "server/public/vendor/"
             }
