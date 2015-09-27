@@ -7,11 +7,10 @@ $(function() {
 
         for (var i = 0; i < students.length; i++) {
 
-            //var active = "";
-            //
-            //if(i == 0) {
-            //    i = active;
-            //};
+            var active = "";
+            if(i == 0) {
+                active = " active";
+            }
 
                 //var descriptionList = "";
                 //
@@ -24,11 +23,14 @@ $(function() {
                 //    $(".desList").append(list);
                 //    }
 
-            var slide = $("<div class='item-active'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
+            var slide = $("<div class='item" + active + "><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
             console.log(slide);
 
-        $("#carousel-inner").append(slide);
-            //$(".carousel").append($("<div class='colorDivs' style='background-color:" + response[i].value + "'><p class='colorName'>" + response[i].color + "</p></div>"));
+        $(".carousel-inner").append(slide);
+
+        $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");
         }
+
+        $('.carousel').carousel();
     });
 });
