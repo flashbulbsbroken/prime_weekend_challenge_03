@@ -1,3 +1,11 @@
 .carousel .item {
     min-height: 500px;
 }
+
+main {
+    background-color: mediumpurple;
+}
+
+#carousel-example-generic {
+    height: 500px;
+}
