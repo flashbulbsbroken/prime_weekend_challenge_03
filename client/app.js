@@ -24,7 +24,7 @@ $(function() {
                 //    $(".desList").append(list);
                 //    }
 
-            var slide = $("<div class='item'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
+            var slide = $("<div class='item-active'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
             console.log(slide);
 
         $(".carousel-inner").append(slide);
