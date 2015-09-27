@@ -1,97 +1,97 @@
 [
   {
     "name": "Danielle",
-    "description": "Lives with wife, Allison, and two cats, Freya and Loki. Enjoys various media, mainly TV shows - Doctor Who, Game of Thrones, Star Trek, and Avatar: TLA."
+    "description": "Lives with wife, Allison, and two cats, Freya and Loki. Enjoys various media, mainly TV shows - Doctor Who, Game of Thrones, Star Trek, and Avatar: TLA.",
     "shoutout": "She has the courage to speak up and disagree when everyone else is too overwhelmed to say they have no clue what is happening."
   },
   {
     "name": "Dave B.",
-    "description": "24 years old. Went to school in Duluth. Plays guitar and records music. Favorite beer is Stone's All Day IPA. Loves gardening."
+    "description": "24 years old. Went to school in Duluth. Plays guitar and records music. Favorite beer is Stone's All Day IPA. Loves gardening.",
     "shoutout": "Thanks to Dave B for his understanding of Bootstrap and his good taste in laying out a page."
   },
   {
     "name": "Brian",
-    "description": ["Grew up in Austin, Texas", "Has lived in Minneapolis for the last 24 years", "Has a son, Elliot, a wife, Christine, and a dog named Rufus"],
+    "description": "Grew up in Austin, Texas. Has lived in Minneapolis for the last 24 years. Has a son, Elliot, a wife, Christine, and a dog named Rufus",
     "shoutout": "Thanks to Brian for taking much better notes than me!"
   },
   {
     "name": "Dave H.",
-    "description": ["Currently dreams in code"],
+    "description": "Currently dreams in code.",
     "shoutout": "My table neighbor Dave Hoverson has continued to be a great help with great patience."
   },
   {
     "name": "Amelia",
-    "description": ["Attained a quarter century worth of wisdom while growing up in South MPLS", "Is a licensed radio dj", "Spends much of her time staring out the window daydreaming"],
+    "description": "Attained a quarter century worth of wisdom while growing up in South MPLS. Is a licensed radio dj. Spends much of her time staring out the window daydreaming.",
     "shoutout": "Amelia is a delight to hang out with...thanks for your great cheer, Amelia."
   },
   {
     "name": "Geoffrey",
-    "description": ["Really big sci-fi nerd", "Star Wars, Star Trek, Dune, LOTR, Doctor Who, the list goes on...", "Also BATMAN"],
+    "description": "Really big sci-fi nerd. Star Wars, Star Trek, Dune, LOTR, Doctor Who, the list goes on... Also BATMAN.",
     "shoutout": "Geoffrey helped me again over the weekend. He has a lot to offer and he is also a really relatable and personable kind of guy...True Epsilon gentleman."
   },
   {
     "name": "Jake",
-    "description": ["Grew up in NE Minneapolis", "Graduated from Metropolitan State University with a degree in Technical Communication", "Has two dogs, Tilly and Cooper, and one cat, Bernie", "Video games are fun and design is cool as well"],
+    "description": "Grew up in NE Minneapolis. Graduated from Metropolitan State University with a degree in Technical Communication. Has two dogs, Tilly and Cooper, and one cat, Bernie. Video games are fun and design is cool as well.",
     "shoutout": "It was great working with Jonathan, Jake, and Zach for the group project over the past two days. Everyone was really supportive of each other."
   },
   {
     "name": "Manu",
-    "description": ["Born and raised in Mexico", "Loves comics, especially DC (not the state duh), Heavy Metal, and classic rock"],
+    "description": "Born and raised in Mexico. Loves comics, especially DC (not the state duh), Heavy Metal, and classic rock.",
     "shoutout": "Manu for sharing his life journey in his speech today. It reminded me of why I decided to come to Prime."
   },
   {
     "name": "John",
-    "description": ["Really doesn't have a middle name", "From California"],
+    "description": "Really doesn't have a middle name. From California.",
     "shoutout": "It was great to keep working together with Jonathan, Zach, and John."
   },
   {
     "name": "Jonathan",
-    "description": ["Green Bay Packers fan", "Likes jazz on vinyl", "Favorite beer is Lagunitas Sucks"],
+    "description": "Green Bay Packers fan. Likes jazz on vinyl. Favorite beer is Lagunitas Sucks.",
     "shoutout": "Jonathan is the most enthusiastic coder I have ever met. He is so inclusive and made sure evreyone was following his logic. A real gem."
   },
   {
     "name": "Lauren",
-    "description": ["Middle name is Margaret", "(or is it?!?!?)"],
+    "description": "Middle name is Margaret (or is it?!?!?).",
     "shoutout": "I was so excited to work with Lauren today. She speaks her mind and I can tell that she is methodical and just smart...All around cool person."
   },
   {
     "name": "Laura",
-    "description": ["23 years old", "Student, artist, sister, daughter, and aunt", "Soon to be future programmer/dragon rider", "Call me Khaleesi"],
+    "description": "23 years old. Student, artist, sister, daughter, and aunt. Soon to be future programmer/dragon rider. Call me Khaleesi.",
     "shoutout": "I'd like to thank Laura for slowing our team down and breaking the Javascript challenge into manageable pieces. This made what seemed like an impossible task, very doable."
   },
   {
     "name": "Liz",
-    "description": ["Dana Carvey follows her on Twitter", "Sometimes dresses up like Wayne Campbell", "Loves Halloween"],
+    "description": "Dana Carvey follows her on Twitter. Sometimes dresses up like Wayne Campbell. Loves Halloween.",
     "shoutout": "I really appreciate Liz's relaxed vibe and positive attitude."
   },
   {
     "name": "Erick",
-    "description": ["Favorite countries/trips are Guatemala, Colombia, France, Argentina, and New York"],
+    "description": "Favorite countries/trips are Guatemala, Colombia, France, Argentina, and New York,",
     "shoutout": "Erick is like a ray of sunshine. He keeps things light and optimistic...He always offers help and stays positive when things get tough."
   },
   {
     "name": "Nick",
-    "description": ["Sometimes forgets to turn the oven off"],
+    "description": "Sometimes forgets to turn the oven off.",
     "shoutout": "I'm sure he'll get a lot, but shoutout to Nick for being the guy who has the patience to explain a concept beginning to end."
   },
   {
     "name": "Doug",
-    "description": ["Born in NJ, lives in Vadnais Heights", "Paddles many kayaks", "Grows tomatos", "Wants a big snow year", "Hasn't played tennis lately"],
+    "description": "Born in NJ, lives in Vadnais Heights. Paddles many kayaks. Grows tomatos. Wants a big snow year. Hasn't played tennis lately.",
     "shoutout": "Doug is another true gentleman of Epsilon. He is an organizing machine and I love his notes AND his questions...He is patient, kind, and incredibly smart."
   },
   {
     "name": "Ryan",
-    "description": ["Born and raised in the burbs", "Rumored to have a life in some circles", "Likes to make websites"],
+    "description": "Born and raised in the burbs. Rumored to have a life in some circles. Likes to make websites.",
     "shoutout": "Ryan for explaining topics to me a little deeper and taking the time to look through my code to find errors."
   },
   {
     "name": "Sarah",
-    "description": ["Born and raised in MN", "Modern quilter", "Enjoys baking", "Has dreams of purchasing a vacant fire station and turning it into a single-family home"],
+    "description": "Born and raised in MN. Modern quilter. Enjoys baking. Has dreams of purchasing a vacant fire station and turning it into a single-family home.",
     "shoutout": "Sarah, she maintains an admirable stability even when things get crazy."
   },
   {
     "name": "Zach",
-    "description": ["Has two middle names", "Born in Denver"],
+    "description": "Has two middle names. Born in Denver.",
     "shoutout": "It was great to keep working together with Jonathan, Zach, and John."
   }
 ]
