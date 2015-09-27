@@ -13,7 +13,7 @@ $(function() {
                     active = " active";
                 }
 
-            var slide = $("<div class='item" + active + "'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
+            var slide = $("<div class='item" + active + "'><p class='name'>" + students[i].name + "</p><p class='description'>" + students[i].description + "</p><p class='shoutout'>" + students[i].shoutout + "</p></div>");
 
         $(".carousel-inner").append(slide);
 
