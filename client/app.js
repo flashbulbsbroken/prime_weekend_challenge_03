@@ -24,10 +24,10 @@ $(function() {
                 //    $(".desList").append(list);
                 //    }
 
-            var slide = $("<div class='carousel-inner'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
+            var slide = $("<div class='item-active'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
             console.log(slide);
 
-        $("#carousel").append(slide);
+        $("#carousel-inner").append(slide);
             //$(".carousel").append($("<div class='colorDivs' style='background-color:" + response[i].value + "'><p class='colorName'>" + response[i].color + "</p></div>"));
         }
     });
