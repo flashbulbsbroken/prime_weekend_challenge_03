@@ -15,9 +15,9 @@ $(function() {
 
                 var descriptionList = "";
 
-                    for (var iTwo = 0; i < students[i].description.length; iTwo++) {
+                    for (var iTwo = 0; i < students[i]['description'].length; iTwo++) {
 
-                    var list = $("<li class='bulletList'>" + students[i].description[i] + "</li>");
+                    var list = $("<li class='bulletList'>" + students[i]['description'][iTwo] + "</li>");
 
                     $(".desList").append(list);
                     }
