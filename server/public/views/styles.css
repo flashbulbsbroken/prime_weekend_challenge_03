@@ -37,11 +37,11 @@ h1 {
     font-style: italic;
 }
 
-main {
-    background-color: mediumpurple;
-}
+/*main {*/
+    /*background-color: mediumpurple;*/
+/*}*/
 
 #carousel-example-generic {
-    height: 300;
+    height: 500;
 }
 
