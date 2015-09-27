@@ -13,9 +13,16 @@ $(function() {
                 i = active;
             };
 
-            var descriptionList =
+                var descriptionList = "";
 
-            var slide = $("<div class='item'><p>" + response[i].name + "</p><p>" + descriptionList + "</p><p>" + response[i].shoutout + "</p></div>");
+                    for (var iTwo = 0; i < students[i].description.length; iTwo++) {
+
+                    var list = $("<li class='bulletList'>" + students[i].description[i] + "</li>");
+
+                    $(".desList").append(list);
+                    }
+
+            var slide = $("<div class='item'><p>" + students[i].name + "</p><p>" + descriptionList + "</p><p>" + students[i].shoutout + "</p></div>");
 
         $(".carousel-inner").append(slide);
             //$(".carousel").append($("<div class='colorDivs' style='background-color:" + response[i].value + "'><p class='colorName'>" + response[i].color + "</p></div>"));
