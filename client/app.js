@@ -13,18 +13,19 @@ $(function() {
             //    i = active;
             //};
 
-                var descriptionList = "";
+                //var descriptionList = "";
+                //
+                //var description = students[i].description;
+                //
+                //    for (var iTwo = 0; i < description[iTwo].length; iTwo++) {
+                //
+                //    var list = $("<li class='bulletList'>" + students[i]['description'][iTwo] + "</li>");
+                //
+                //    $(".desList").append(list);
+                //    }
 
-                var description = students[i].description;
-
-                    for (var iTwo = 0; i < description[iTwo].length; iTwo++) {
-
-                    var list = $("<li class='bulletList'>" + students[i]['description'][iTwo] + "</li>");
-
-                    $(".desList").append(list);
-                    }
-
-            var slide = $("<div class='item'><p>" + students[i].name + "</p><p>" + descriptionList + "</p><p>" + students[i].shoutout + "</p></div>");
+            var slide = $("<div class='item'><p>" + students[i].name + "</p><p>" + students[i].description + "</p><p>" + students[i].shoutout + "</p></div>");
+            console.log(slide);
 
         $(".carousel-inner").append(slide);
             //$(".carousel").append($("<div class='colorDivs' style='background-color:" + response[i].value + "'><p class='colorName'>" + response[i].color + "</p></div>"));
