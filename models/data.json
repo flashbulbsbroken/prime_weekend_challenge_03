@@ -1,12 +1,12 @@
 [
   {
     "name": "Danielle",
-    "description": ["Lives with wife, Allison, and two cats, Freya and Loki", "Enjoys various media, mainly TV shows - Doctor Who, Game of Thrones, Star Trek, and Avatar: TLA"],
+    "description": "Lives with wife, Allison, and two cats, Freya and Loki. Enjoys various media, mainly TV shows - Doctor Who, Game of Thrones, Star Trek, and Avatar: TLA."
     "shoutout": "She has the courage to speak up and disagree when everyone else is too overwhelmed to say they have no clue what is happening."
   },
   {
     "name": "Dave B.",
-    "description": ["24 years old", "Went to school in Duluth", "Plays guitar and records music", "Favorite beer is Stone's All Day IPA", "Loves gardening"],
+    "description": "24 years old. Went to school in Duluth. Plays guitar and records music. Favorite beer is Stone's All Day IPA. Loves gardening."
     "shoutout": "Thanks to Dave B for his understanding of Bootstrap and his good taste in laying out a page."
   },
   {
