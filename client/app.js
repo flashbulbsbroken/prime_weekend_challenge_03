@@ -6,6 +6,10 @@ $(function() {
 
         var students = response;
 
+        $('body').click(function() {
+            $('.slide').fadeIn(600).addClass('active-slide');
+        });
+
         for (var i = 0; i < students.length; i++) {
 
             var active = "";
@@ -18,10 +22,6 @@ $(function() {
         $(".carousel-inner").append(slide);
 
         $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");
-
-            $('body').click(function() {
-                $('.slide').fadeIn(600).addClass('active-slide');
-            });
 
         }
 
