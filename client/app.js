@@ -21,7 +21,8 @@ $(function() {
         }
 
         $('.carousel').carousel( {
-            interval: 4000
+            interval: 4000,
+            data: next
         });
     });
 });
