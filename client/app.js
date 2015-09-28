@@ -20,6 +20,8 @@ $(function() {
         $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");
         }
 
-        $('.carousel').carousel();
+        $('.carousel').carousel( {
+            interval: 4000
+        });
     });
 });
