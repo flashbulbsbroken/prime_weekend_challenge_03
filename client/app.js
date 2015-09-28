@@ -18,11 +18,13 @@ $(function() {
         $(".carousel-inner").append(slide);
 
         $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");
+
+            $('body').click(function() {
+                $('.slide').fadeIn(600).addClass('active-slide');
+            });
+
         }
 
-        $('.carousel').carousel( {
-            interval: 4000,
-            data: next
-        });
+        $('.carousel').carousel();
     });
 });
